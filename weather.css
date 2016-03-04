@@ -1,0 +1,42 @@
+body {
+    background-color: #EB5B65;
+    font-family: 'palanquin', sans-serif;
+    color: #2A5A70;
+}
+
+h1 {
+    text-align: center;
+    font-size: 92px;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #2A5A70;
+}
+
+p {
+    text-align: center;
+    font-size: 48px;
+}
+
+img {
+    border-style: none;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    background-color: #5b65eb;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
